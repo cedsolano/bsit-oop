@@ -1,3 +1,5 @@
+using System;
+
 // Encapsulation: Public properties encapsulate the internal state of the object
 class Shinobi
 {
@@ -66,4 +68,3 @@ class Program
         Console.WriteLine($"{sasuke.Name} undergoes redemption and ultimately becomes a hero or 'Shadow Hokage'.");
     }
 }
-
